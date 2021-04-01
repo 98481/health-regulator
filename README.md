@@ -1,4 +1,4 @@
-# allincluded
+# Health Regulator Mobile App
 
 For SPlash Screen, Login , HomePage with images
 
