@@ -29,7 +29,7 @@ Our main objectives are:
 
 -To study the Morbidity pattern and collect details , reports , normal routine Checkups. 
 
--Connecting to firebase Authentication for login and verification of user email , CloudStore for data.  
+-Connecting to firebase Authentication for login and verification of user email , CloudFirestore for storing health and user details.  
 
 -To send real time notification to parents.
 
