@@ -24,6 +24,7 @@ Android - Mobile Operating System Pie /Oreo/higher
 
 ## Development
 Our main objectives are:
+
 -To build mobile app to study the health status and to assess the Nutritional status of early adolescent girls residing in social welfare hostels.  
 
 -To study the Morbidity pattern and collect details , reports , normal routine Checkups. 
