@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Tech
+Health Regulator uses Google Tecnologies :
+
+Flutter - Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+Firebase - Google's mobile platform that helps you quickly develop high-quality apps
+Android - Mobile Operating System Pie /Oreo/higher
+
+## Development
+Our main objectives are:
+-To build mobile app to study the health status and to assess the Nutritional status of early adolescent girls residing in social welfare hostels.  
+-To study the Morbidity pattern and collect details , reports , normal routine Checkups. 
+-Connecting to firebase Authentication for login and verification of user email , CloudStore for data.  
+-To send real time notification to parents.
+
+
