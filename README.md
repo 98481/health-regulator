@@ -19,8 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 Health Regulator uses Google Tecnologies :
 
 Flutter - Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-Firebase - Google's mobile platform that helps you quickly develop high-quality apps
+
+Firebase - Firebase is an ecosystem of Google tools that can be used to make full-stack, scalable applications in the Google Cloud (called Cloud Firestore) or Realtime Database.
+
 Android - Mobile Operating System Pie /Oreo/higher
+
 
 ## Development
 Our main objectives are:
